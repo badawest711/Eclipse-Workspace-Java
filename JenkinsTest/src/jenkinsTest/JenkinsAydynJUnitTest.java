@@ -15,6 +15,7 @@ public class JenkinsAydynJUnitTest {
 	    int expected = 6912;
 	 
 	    assertEquals("eerewr wer ewrw", expected, actual);
+	    
 	}
 
 }
