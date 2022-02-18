@@ -29,7 +29,7 @@
       <junit>
          <classpath refid = "classpath.test" />
          <formatter type = "brief" usefile = "false" />
-         <test name = "TestMessageUtil" />
+         <test name = "testJunitWithAnt.TestMessageUtil" />
       </junit>
    </target>
 	
